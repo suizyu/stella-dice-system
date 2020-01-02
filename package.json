@@ -1,0 +1,22 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "StellaNights用ダイスボット（身内向）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suizyu/stella-dice-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suizyu/stella-dice-system/issues"
+  },
+  "homepage": "https://github.com/suizyu/stella-dice-system#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
